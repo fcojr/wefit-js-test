@@ -1,0 +1,1 @@
+Just open the index.html file and press the "Fix it" button.
